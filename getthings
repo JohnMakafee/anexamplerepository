@@ -1,3 +1,4 @@
 get.all()
 get.none()
 gg()
+gg(())
